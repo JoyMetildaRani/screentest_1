@@ -814,7 +814,7 @@ body {font-family: Arial;}
   .less{
       position: absolute;
       top: 5510px;
-      left: 780px;
+      left: 50%;
 
     }
 .less a{
@@ -824,7 +824,7 @@ body {font-family: Arial;}
 .less_down{
     position: absolute;
     top: 5700px;
-    left: 780px;
+    left: 50%;
 }
 
 .less_down a{
